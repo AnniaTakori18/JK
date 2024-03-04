@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salary Calculator</title>
+</head>
+<body>
+
+<!-- Opening script tag with the type attribute -->
+<script type="text/javascript">
+
+    // Writing text directly to the document
+    document.write("JavaScript is fun.");
+
+    // Creating a variable and assigning a value
+    var message = "JavaScript is fun!";
+
+    // Writing the variable 5 times using concatenation
+    document.write(message + message + message + message + message);
+
+</script>
+<!-- Closing script tag -->
+
+</body>
+</html>
